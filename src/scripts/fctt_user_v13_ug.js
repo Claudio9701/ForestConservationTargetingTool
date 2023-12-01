@@ -268,7 +268,7 @@
 			ghyb.setVisibility(false);
 			gsat.setVisibility(false);
 			gosm.setVisibility(false);
-			gphy.setVisibility(false);
+			gphy.setVisibility(true);
 			marginalityLayer.setVisibility(false);
 			prioritizationLayer.setVisibility(false);
 			updateStyling();	
